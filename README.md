@@ -3,6 +3,7 @@
 </p>
 
 [![Build Status](https://travis-ci.org/AJS-development/OpenAgar.svg?branch=master)](https://travis-ci.org/AJS-development/OpenAgar) [![Forums](https://img.shields.io/badge/Forums-home.opnagar.us-blue.svg)](http://home.opnagar.us) [![chat](https://img.shields.io/badge/Chat-Discord-green.svg)](https://discord.gg/8JPsyDn) ![Status](https://img.shields.io/badge/Status-Basically%20Finished-brightgreen.svg) ![Project](https://img.shields.io/badge/Project-Semi--Private-yellow.svg) [![Plugins](https://img.shields.io/badge/Plugins-OAPlugins-green.svg)](https://github.com/AJS-development/OAPlugins) ![Stats](https://img.shields.io/badge/Code-152747%20Lines-green.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FAJS-development%2FOpenAgar.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FAJS-development%2FOpenAgar?ref=badge_shield)
 
 Hello, we are AJS Development! We are the same team that brought you OgarUl! In AJS, we have many members. The main members are Andrews54757 and LegitSoulja. We decided to create this project after OgarUl's Ogar infrastructure couldnt hold with all those cool features! So, we created our own, completely from scratch. Now, OpenAgar is the most efficient Ogar-like game server available! Twice as efficient as MultiOgar, a gazillion times efficient than OgarUL, and 5 times efficient than Ogar! ([Proof](https://github.com/AJS-development/OpenAgar/issues/1)) We also decided to make OpenAgar as interesting as possible! New physics, new features, new gameplay and more!
 
@@ -222,3 +223,7 @@ Some files are encrypted because they are needed to secure things such as socket
 ## Another Note
 This game is different and is not Agar.io or Ogar. It is similar, but very different. We are making a unique game.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FAJS-development%2FOpenAgar.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FAJS-development%2FOpenAgar?ref=badge_large)
